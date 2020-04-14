@@ -77,26 +77,26 @@ var list_data = {
 	gen15 : {
 		id : 15,
 		first : 165,
-		last : 183
+		last : 182
 	},
 	gen16 : {
 		id : 16,
-		first : 184,
-		last : 191
+		first : 183,
+		last : 190
 	},
 	gen17 : {
 		id: 17,
-		first : 192,
-		last : 201
+		first : 191,
+		last : 200
 	},
 	gen18 : {
 		id : 18,
-		first : 202,
-		last : 208
+		first : 201,
+		last : 207
 	},
 	gen19 : {
 		id : 19,
-		first : 209,
+		first : 208,
 		last : 214
 	},
 	gen20 : {

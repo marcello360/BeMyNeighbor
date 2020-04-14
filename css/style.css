@@ -39,8 +39,8 @@ body {
 	width:0%
 }
 #game img {
-	height:96px;
-	width:96px;
+	height:200px;
+	width:160px;
 }
 #grid {
 	position:relative;
