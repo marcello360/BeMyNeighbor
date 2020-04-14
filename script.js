@@ -2,42 +2,182 @@ var list_data = {
 	all : {
 		id : 0,
 		first : 1,
-		last : 721
+		last : 394
 	},
 	gen1 : {
 		id : 1,
 		first : 1,
-		last : 151
+		last : 7
 	},
 	gen2 : {
 		id: 2,
-		first : 152,
-		last : 251
+		first : 8,
+		last : 14
 	},
 	gen3 : {
 		id : 3,
-		first : 252,
-		last : 386
+		first : 15,
+		last : 29
 	},
 	gen4 : {
 		id : 4,
-		first : 387,
-		last : 493
+		first : 30,
+		last : 42
 	},
 	gen5 : {
 		id : 5,
-		first : 494,
-		last : 649
+		first : 43,
+		last : 48
 	},
 	gen6 : {
 		id : 6,
-		first : 650,
-		last : 721
+		first : 49,
+		last : 71
 	},
-	test: {
-		id : 7,
-		first : 1,
-		last : 12
+	gen7 : {
+		id: 7,
+		first : 72,
+		last : 80
+	},
+	gen8 : {
+		id : 8,
+		first : 81,
+		last : 84
+	},
+	gen9 : {
+		id : 9,
+		first : 85,
+		last : 100
+	},
+	gen10 : {
+		id : 10,
+		first : 101,
+		last : 111
+	},
+	gen11 : {
+		id : 11,
+		first : 112,
+		last : 127
+	},
+	gen12 : {
+		id: 12,
+		first : 128,
+		last : 143
+	},
+	gen13 : {
+		id : 13,
+		first : 144,
+		last : 152
+	},
+	gen14 : {
+		id : 14,
+		first : 153,
+		last : 164
+	},
+	gen15 : {
+		id : 15,
+		first : 165,
+		last : 183
+	},
+	gen16 : {
+		id : 16,
+		first : 184,
+		last : 191
+	},
+	gen17 : {
+		id: 17,
+		first : 192,
+		last : 201
+	},
+	gen18 : {
+		id : 18,
+		first : 202,
+		last : 208
+	},
+	gen19 : {
+		id : 19,
+		first : 209,
+		last : 214
+	},
+	gen20 : {
+		id : 20,
+		first : 215,
+		last : 229
+	},
+	gen21 : {
+		id : 21,
+		first : 230,
+		last : 237
+	},
+	gen22 : {
+		id: 22,
+		first : 238,
+		last : 246
+	},
+	gen23 : {
+		id : 23,
+		first : 247,
+		last : 253
+	},
+	gen24 : {
+		id : 24,
+		first : 254,
+		last : 268
+	},
+	gen25 : {
+		id : 25,
+		first : 269,
+		last : 276
+	},
+	gen26 : {
+		id : 26,
+		first : 277,
+		last : 279
+	},
+	gen27 : {
+		id: 27,
+		first : 280,
+		last : 289
+	},
+	gen28 : {
+		id : 28,
+		first : 290,
+		last : 302
+	},
+	gen29 : {
+		id : 29,
+		first : 303,
+		last : 317
+	},
+	gen30 : {
+		id : 30,
+		first : 318,
+		last : 338
+	},
+	gen31 : {
+		id : 31,
+		first : 339,
+		last : 344
+	},
+	gen32 : {
+		id: 32,
+		first : 345,
+		last : 358
+	},
+	gen33 : {
+		id : 33,
+		first : 359,
+		last : 376
+	},
+	gen34 : {
+		id : 34,
+		first : 377,
+		last : 383
+	},
+	gen35 : {
+		id : 35,
+		first : 384,
+		last : 394
 	}
 
 };
