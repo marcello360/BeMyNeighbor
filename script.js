@@ -2,7 +2,7 @@ var list_data = {
 	all : {
 		id : 0,
 		first : 1,
-		last : 394
+		last : 391
 	},
 	gen1 : {
 		id : 1,
@@ -52,16 +52,16 @@ var list_data = {
 	gen10 : {
 		id : 10,
 		first : 101,
-		last : 111
+		last : 110
 	},
 	gen11 : {
 		id : 11,
-		first : 112,
-		last : 127
+		first : 111,
+		last : 126
 	},
 	gen12 : {
 		id: 12,
-		first : 128,
+		first : 127,
 		last : 143
 	},
 	gen13 : {
@@ -72,112 +72,112 @@ var list_data = {
 	gen14 : {
 		id : 14,
 		first : 153,
-		last : 164
+		last : 163
 	},
 	gen15 : {
 		id : 15,
-		first : 165,
-		last : 182
+		first : 164,
+		last : 181
 	},
 	gen16 : {
 		id : 16,
-		first : 183,
-		last : 190
+		first : 182,
+		last : 189
 	},
 	gen17 : {
 		id: 17,
-		first : 191,
-		last : 200
+		first : 190,
+		last : 198
 	},
 	gen18 : {
 		id : 18,
-		first : 201,
-		last : 207
+		first : 199,
+		last : 206
 	},
 	gen19 : {
 		id : 19,
-		first : 208,
-		last : 214
+		first : 207,
+		last : 213
 	},
 	gen20 : {
 		id : 20,
-		first : 215,
-		last : 229
+		first : 214,
+		last : 228
 	},
 	gen21 : {
 		id : 21,
-		first : 230,
-		last : 237
+		first : 229,
+		last : 236
 	},
 	gen22 : {
 		id: 22,
-		first : 238,
-		last : 246
+		first : 237,
+		last : 245
 	},
 	gen23 : {
 		id : 23,
-		first : 247,
-		last : 253
+		first : 246,
+		last : 252
 	},
 	gen24 : {
 		id : 24,
-		first : 254,
-		last : 268
+		first : 253,
+		last : 267
 	},
 	gen25 : {
 		id : 25,
-		first : 269,
-		last : 276
+		first : 268,
+		last : 275
 	},
 	gen26 : {
 		id : 26,
-		first : 277,
-		last : 279
+		first : 276,
+		last : 278
 	},
 	gen27 : {
 		id: 27,
-		first : 280,
-		last : 289
+		first : 279,
+		last : 288
 	},
 	gen28 : {
 		id : 28,
-		first : 290,
-		last : 302
+		first : 289,
+		last : 301
 	},
 	gen29 : {
 		id : 29,
-		first : 303,
-		last : 317
+		first : 302,
+		last : 316
 	},
 	gen30 : {
 		id : 30,
-		first : 318,
-		last : 338
+		first : 317,
+		last : 336
 	},
 	gen31 : {
 		id : 31,
-		first : 339,
-		last : 344
+		first : 337,
+		last : 342
 	},
 	gen32 : {
 		id: 32,
-		first : 345,
-		last : 358
+		first : 343,
+		last : 355
 	},
 	gen33 : {
 		id : 33,
-		first : 359,
-		last : 376
+		first : 356,
+		last : 373
 	},
 	gen34 : {
 		id : 34,
-		first : 377,
-		last : 383
+		first : 374,
+		last : 380
 	},
 	gen35 : {
 		id : 35,
-		first : 384,
-		last : 394
+		first : 381,
+		last : 391
 	}
 
 };
